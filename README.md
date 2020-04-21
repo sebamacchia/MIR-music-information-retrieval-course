@@ -1,6 +1,6 @@
 # MIR-music-information-retrieval-course
 
-So u wanna pythoning? Here the most complete and compact Python cheat sheet you will never see in your f@#\$% life!
+This repository has the theory and practice of my course of MIR.
 
 # Table of Contents
 
